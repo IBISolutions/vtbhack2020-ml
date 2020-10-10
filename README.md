@@ -22,10 +22,10 @@
 
 ## Дата-сеты
 Дата-сет содержит следующие марки автомобилей, по ~1000 фотографий .jpeg в каждой:
-- Hyundai SOLARIS
-- KIA Rio
-- Volkswagen Polo
-- Volkswagen Tiguan
-- Skoda Octavia
+- <a href="https://drive.google.com/drive/folders/1qtqKl7UBOVWQs0AP0o4YT4GZmf9UrOnS" target="_blank">Hyundai SOLARIS</a>
+- <a href="https://drive.google.com/drive/folders/1sUoJIGykcR5savunmTXirVoWN-Oh6e_L" target="_blank">KIA Rio</a>
+- <a href="https://drive.google.com/drive/u/1/folders/1pYoMRonIo6oPKt0ntD3QJtooHtKh_9Su" target="_blank">Volkswagen Polo</a>
+- <a href="https://drive.google.com/drive/u/1/folders/1nJy9TXFAPNzs1Gg2jNzAbbamsfURqtle" target="_blank">Volkswagen Tiguan</a>
+- <a href="https://drive.google.com/drive/folders/1MF8rlcXMSldHHD0Ec8Yvvvjvf37wJ691" target="_blank">Skoda Octavia</a>
 
 ## Описание модели
