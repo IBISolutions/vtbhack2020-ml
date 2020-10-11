@@ -50,6 +50,6 @@ Accuracy ~ 85%.
 
 Доступ к API:
 http://130.193.51.57:5000/api/car-recognize <br>
-В теле запроса должен быть передан {"content" : "<IMG BASE64>"}. 
+В теле запроса должен быть передан {"content" : "IMG BASE64"}. 
 
 
