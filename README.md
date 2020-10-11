@@ -1,6 +1,9 @@
 # vtbhack2020-ml
 
 <img src="https://github.com/IBISolutions/vtbhack2020-ml/blob/main/img/Мокап1.png" width="150px">
+<img src="https://github.com/IBISolutions/vtbhack2020-ml/blob/main/img/Мокап2.png" width="150px">
+<img src="https://github.com/IBISolutions/vtbhack2020-ml/blob/main/img/Мокап3.png" width="150px">
+<img src="https://github.com/IBISolutions/vtbhack2020-ml/blob/main/img/Мокап4.png" width="150px">
 
 ## Предисловие
 У мобильных разработчиков стоит задача, разработать мобильное приложение, которое через камеру смартфона определяет марку автомобиля. Они используют предоставленные банковские API классификации марок автомобилей с ограничением на 14 определенных марок:
