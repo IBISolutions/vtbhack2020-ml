@@ -18,7 +18,7 @@ sn.set(font_scale=1.4)
 
 IMAGE_SIZE = (48, 48)
 # Загружаем готовую модель
-model = tf.keras.models.load_model('models/new_model_1.h5')
+model = tf.keras.models.load_model('models/new_model_2.h5')
 
 app = Flask(__name__)
 CORS(app)
