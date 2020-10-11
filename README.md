@@ -39,7 +39,7 @@
 ## Описание модели
 
 **Ссылка на модель .h5:** <br>
-Новая версия: https://yadi.sk/d/_FRK8_Q4BsRHxg <br>
+**Новая актуальная версия:** https://yadi.sk/d/FFkWaihY-5RTrQ <br>
 Прошлая версия: https://yadi.sk/d/qPnhh3oPkIL67A <br>
 Необходимо поместить в корне проекта в папку **models**.
 
