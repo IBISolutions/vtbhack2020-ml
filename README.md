@@ -59,7 +59,7 @@ Accuracy ~ 85%.
 - ОС: Ubuntu 20 LTS
 
 Доступ к API:
-http://130.193.51.57:5000/api/car-recognize <br>
+http://130.193.51.57:5000/api/car-recognize/ <br>
 В теле запроса должен быть передан {"content" : "IMG BASE64"}. 
 
 # Команда 
