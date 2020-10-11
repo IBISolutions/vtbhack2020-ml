@@ -9,3 +9,4 @@ keras
 numpy
 pillow
 skimage
+opencv-python
