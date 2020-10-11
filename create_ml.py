@@ -180,7 +180,7 @@ model.fit(X_train_resized, Y_train,
 # Схраняем модель
 model.save('/content/drive/My Drive/VTB_Models/new_model.h5')
 
-test_images = load_data_test()
-predictions = model.predict(test_images)
+# test_images = load_data_test()
+# predictions = model.predict(test_images)
 
-print("predictions: ", predictions)
+# print("predictions: ", predictions)
