@@ -29,3 +29,6 @@
 - <a href="https://drive.google.com/drive/folders/1MF8rlcXMSldHHD0Ec8Yvvvjvf37wJ691" target="_blank">Skoda Octavia</a>
 
 ## Описание модели
+
+Ссылка на модель .h5: https://yadi.sk/d/qPnhh3oPkIL67A
+Необходимо поместить в корне проекта в папку models.
