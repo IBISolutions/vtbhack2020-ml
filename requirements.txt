@@ -1,0 +1,11 @@
+flask
+flask_cors
+seaborn
+sklearn
+matplotlib
+tensorflow
+tqdm
+keras
+numpy
+pillow
+skimage
