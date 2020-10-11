@@ -60,4 +60,10 @@ Accuracy ~ 85%.
 http://130.193.51.57:5000/api/car-recognize <br>
 В теле запроса должен быть передан {"content" : "IMG BASE64"}. 
 
+# Команда 
 
+Наша команда: 
+- Иван Федоров (Product Owner )
+- Виктор Волков (IOS Developer)
+- Сергей Кудрявцев (Machine Learning)
+- Наталья Федорова (Design)
